@@ -1,0 +1,9 @@
+GitHub Learning 
+-------------------------------------------------
+ *Git is distributed version system control(you can clone actual resposeotry and work on it.)
+ *in Git things are stored in snapshot.
+    Example:-- 
+            1. This is the TEST ---> Snapshot 1
+			2. This is new TEST ---> Snapshot 2 
+	!!!Simply we can say Take snapshot (commit)and take new snapshot again.!!!
+		 
